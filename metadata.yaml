@@ -25,5 +25,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Ulric the Jarl: A Story of the Penitent Thief'
 url: http://www.gutenberg.org/ebooks/47515
